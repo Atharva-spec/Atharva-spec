@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atharva-spec
-- 👀 I’m interested in HTML5,CSS,JAVASCRIPT, and C++
-- 🌱 I’m currently learning HTML5 and CSS
+- 👀 I’m interested in PYTHON,JAVA, C and C++
+- 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on FOR THE TIME BEING NOTHING 
 - 📫 How to reach me YOU CAN INVITE ME 
 
